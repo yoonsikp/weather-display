@@ -3,9 +3,9 @@
 <image x="65" y="130" width="300" height="300" xlink:href="ICON_ONE" />
 <line x1="50" y1="490" x2="385" y2="490" style="stroke:rgb(0,0,0);stroke-width:4" />
 <title>Weather</title>
-  <g font-weight="400" font-family="DejaVu Sans" id="weather">
+  <g font-family="DejaVu Sans" id="weather">
    <text font-size="15px" y="415" x="735" text-anchor="start" id="svg_167">UNIT</text>
-   <text font-weight="100" font-size="60px" y="90" x="750" text-anchor="end" id="svg_2">TODAY</text>
+   <text font="DejaVuSans-ExtraLight" font-size="60px" y="90" x="750" text-anchor="end" id="svg_2">TODAY</text>
    <text font-size="60px" y="90" x="50" text-anchor="start" id="svg_276">CITY</text>
    <text font-size="20px" y="123" x="54" text-anchor="start" id="svg_4">As of TIME</text>
    <text font-size="30px" y="460" x="220" text-anchor="middle" id="svg_25">STATUS</text>
@@ -21,10 +21,10 @@
    <text font-size="30px" y="454" x="580" text-anchor="end" id="svg_3">Wind:</text>
 
    <text fill="black" font-size="70px" y="370" x="730" text-anchor="end" id="svg_9">LOW_ONE</text>
-   <text fill="black" font-weight="100" font-size="60px" y="362" x="729" text-anchor="start" id="svg_10">°</text>
+   <text fill="black" font-size="60px" y="362" x="729" text-anchor="start" id="svg_10">°</text>
    <text fill="black" font-size="30px" y="369" x="580" text-anchor="end" id="svg_8">Feels Like:</text>
 
-   <text font-weight="500" font-size="150px" y="TEMPYCOORD" x="600" text-anchor="middle" id="svg_6">HIGH_ONE°</text>
+   <text font-size="150px" y="TEMPYCOORD" x="600" text-anchor="middle" id="svg_6">HIGH_ONE°</text>
 
   </g>
  </g>
