@@ -13,11 +13,11 @@ Configure imagemagick so that it can find the DejaVu fonts:
 
 pip install myql dom
 
-Insert into your crontab 
+Insert the launch.sh into your crontab 
 
 
 
-
+***TROUBLESHOOTING***
 In a pinch (only if imagemagick can't find your fonts):
 
 Copy fonts to a directory of your choice
