@@ -4,12 +4,12 @@ A customizable script to display Yahoo weather data as a portable image
 
 ###Server Installation
 ```
-Install DejaVu Fonts
+First, install DejaVu Fonts
 
+Then:
 apt-get install imagemagick pngcrush
 
-Configure imagemagick so that it can find the DejaVu fonts:
-
+Also,configure imagemagick so that it can find the DejaVu fonts
 
 pip install myql dom
 
@@ -19,7 +19,7 @@ Lastly, install the web server of your choice and allow it through your firewall
 
 
 ***TROUBLESHOOTING***
-In a pinch (only if imagemagick can't find your fonts):
+if imagemagick can't find your fonts:
 
 Copy fonts to a directory of your choice
 
