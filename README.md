@@ -3,7 +3,7 @@ A customizable script to display Yahoo weather data as a portable image
 
 
 ###Server Installation
-'''
+```
 Install DejaVu Fonts
 
 apt-get install imagemagick pngcrush
@@ -35,4 +35,4 @@ find /Users/username/your_font_directory -name '*Deja*' |./script.pl -f - > ./ty
 nano type.xml
 
 Near the end of the file between <typemap> and </typemap>, add <include file="type-morefonts.xml" />
-'''
+```
