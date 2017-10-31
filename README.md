@@ -15,6 +15,7 @@ pip install myql dom
 
 Insert the launch.sh into your crontab 
 
+Lastly, install the web server of your choice and allow it through your firewall
 
 
 ***TROUBLESHOOTING***
