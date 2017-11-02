@@ -1,6 +1,6 @@
 # weather-display
 A customizable script to display Yahoo weather data as a portable image
-
+![alt text](https://raw.githubusercontent.com/yoonsikp/weather-display/master/weather-script-output.png "Logo Title Text 1")
 
 ###Server Installation
 ```
