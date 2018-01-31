@@ -2,7 +2,7 @@
 A customizable script to display Yahoo weather data as a portable image.
 ![alt text](https://raw.githubusercontent.com/yoonsikp/weather-display/master/weather-script-output.png "Logo Title Text 1")
 
-###Server Installation
+## Server Installation
 First, install DejaVu Fonts
 
 Then:
@@ -18,7 +18,7 @@ Insert the launch.sh into your crontab
 Lastly, install the web server of your choice and allow it through your firewall
 
 
-***TROUBLESHOOTING***
+## TROUBLESHOOTING
 if imagemagick can't find your fonts:
 
 Copy fonts to a directory of your choice
