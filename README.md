@@ -19,6 +19,12 @@ Insert the script `launch.sh` into your crontab.
 
 Finally, install the web server of your choice and allow the port through your firewall.
 
+## Client Installation
+Unzip the contents of `kindleweatherfiles.zip` into the root directory of your Kindle.
+Install the jailbreak, and USBNetworking.
+
+Finally, add `/mnt/us/weather/display-weather.sh` to the cron file on the Kindle.
+
 ## Troubleshooting
 if imagemagick can't find your fonts:
 Copy fonts to a directory of your choice
