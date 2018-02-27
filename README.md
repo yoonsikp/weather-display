@@ -13,8 +13,9 @@ Then use pip to install the required dependencies.
 ```
 pip install myql dom
 ```
-Insert the script `launch.sh` into your crontab 
-Lastly, install the web server of your choice and allow it through your firewall
+Insert the script `launch.sh` into your crontab.
+
+Finally, install the web server of your choice and allow the port through your firewall.
 
 ## Troubleshooting
 if imagemagick can't find your fonts:
